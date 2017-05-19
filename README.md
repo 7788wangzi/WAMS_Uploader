@@ -13,9 +13,9 @@ You can download the Tool from [here](WAMS_Uploader.zip), click [View Raw](https
 **NOTE:** Change the Value of MediaServiceAccountName and MediaServiceAccountKey to your own.
 ![](AppSetting.jpg)
 4. Run the tool by **WAMS_UPLOAD.exe**.
-5. Add the folders which contains the video files(mp4).
+5. Add the folders which contains the video files(mp4).  
 ![](AddFolder.jpg)
-6. Click **Process MP4 Files**.
+6. Click **Process MP4 Files**.  
 ![](ProceedComplete.jpg)
-7. Once complete, there will be a .csv file in each folder.
+7. Once complete, there will be a .csv file in each folder.  
 ![](CSV.JPG)
