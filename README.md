@@ -9,6 +9,13 @@ You can download the Tool from [here](WAMS_Uploader.zip), click [View Raw](https
 1. Register an Azure subscription at [here](https://www.azure.cn/).
 2. Create a Windows Media Service Account, get the Account Name and Account Key.
 ![](WAMS_Account.JPG)
-3. Update the configuration file（AMS_UPLOAD.exe.config） in the tool. 
+3. Update the configuration file（AMS_UPLOAD.exe.config） in the tool.   
 **NOTE:** Change the Value of MediaServiceAccountName and MediaServiceAccountKey to your own.
 ![](AppSetting.jpg)
+4. Run the tool by **WAMS_UPLOAD.exe**.
+5. Add the folders which contains the video files(mp4).
+![](AddFolder.jpg)
+6. Click **Process MP4 Files**.
+![](ProceedComplete.jpg)
+7. Once complete, there will be a .csv file in each folder.
+![](CSV.JPG)
