@@ -1,4 +1,4 @@
-﻿# WAMS_Uploader
+﻿# Windows Azure Media Service_Uploader
 This tool can upload the videos to azure media service, encode the video with 720p, publish and return the playable url and downloadable url.
 
 ## Download
@@ -19,3 +19,6 @@ You can download the Tool from [here](WAMS_Uploader.zip), click [View Raw](https
 ![](ProceedComplete.jpg)
 7. Once complete, there will be a .csv file in each folder.  
 ![](CSV.JPG)
+
+
+Azure Media Service服务链接已强制使用Service Principal, 请参考[Accessing WAMS with Service Principal](./1-use-service-principal-wams.md)
