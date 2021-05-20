@@ -21,4 +21,4 @@ You can download the Tool from [here](WAMS_Uploader.zip), click [View Raw](https
 ![](CSV.JPG)
 
 
-Azure Media Service服务链接已强制使用Service Principal, 请参考[Accessing WAMS with Service Principal](./1-use-service-principal-wams.md)
+Azure Media Service服务链接已强制使用Service Principal, 请参考[Accessing WAMS with Service Principal](./1-use-service-principal-wams.md). 谢谢！
